@@ -5,3 +5,8 @@
 body {
   background: linear-gradient(to right , rgb(29, 194, 70), rgb(134, 87, 211));
 }
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #95dada;
+}
