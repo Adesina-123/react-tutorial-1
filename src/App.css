@@ -2,3 +2,6 @@
   text-align: center;
 }
 
+body {
+  background: linear-gradient(to right , rgb(29, 194, 70), rgb(134, 87, 211));
+}
